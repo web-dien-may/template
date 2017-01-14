@@ -9,8 +9,8 @@
 </head>
 <body>
 <?php include_once("header.php") ?>
-<div id="main-content" class="row">
-
+<div id="main-content">
+    <?php include_once("home.php") ?>
 </div>
 <!--End Content-->
 

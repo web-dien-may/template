@@ -12,7 +12,7 @@
 #flags li{
     display: inline;
 }
-#logo, #search{
+#header{
     background-image: url(../img/bg-header.jpg);
     padding-bottom: 0px;
     margin: 0px auto;
@@ -22,7 +22,9 @@
     height: 84px;
     padding-top: 0px;
 }
-
+#search{
+    margin: 15px 0px 0px ;
+}
 .navbar .navbar-nav {
     display: inline-block;
     float: none;
@@ -78,8 +80,29 @@ div.container-fluid{
 .main-menu nav{
     border: 0px;
     border-radius: 0px;
+    margin-bottom: 0px;
 }
 
+.navbar-default .navbar-nav>.open>a{
+    margin-top: 4px;
+    padding-bottom: 8px;
+}
+.navbar-default .navbar-nav>li>a{
+    color: #bc0b1a;
+}
+.navbar-default .navbar-nav>li>a:hover{
+    color: #bc0b1a;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+    color: #bc0b1a;
+}
+
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #bc0b1a;
+}
 
 /*Search*/
 #custom-search-input{
@@ -92,6 +115,8 @@ div.container-fluid{
 #custom-search-input input{
     border: 0;
     box-shadow: none;
+    font-size: 15px;
+    font-family: tahoma;
 }
 
 #custom-search-input button{
@@ -112,6 +137,22 @@ div.container-fluid{
 
 #custom-search-input .glyphicon-search{
     font-size: 23px;
+    color: red;
 }
 
 /*End search*/
+
+/*Footer*/
+
+#footer{
+    background: url("../img/bg-footer.jpg") repeat-x;
+    height: 73px;
+    color: #ffffff;
+    padding-top: 10px;
+}
+
+
+/*Slide*/
+#myCarousel{
+
+}

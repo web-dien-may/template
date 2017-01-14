@@ -10,30 +10,31 @@
     </div>
 
 </div>
-<div id="header" class="container">
-    <div class="row">
-        <!--End flags-->
-        <div id="logo" class="col-md-6">
-            <a href="#">
-                <img src="img/logo.jpg">
-            </a>
-        </div>
-        <!--End logo-->
+<div id="header">
+    <div class="container">
+        <div class="row">
+            <!--End flags-->
+            <div id="logo" class="col-md-6">
+                <a href="#">
+                    <img src="img/logo.jpg">
+                </a>
+            </div>
+            <!--End logo-->
 
-        <div id="search" class="col-md-6">
-            <div id="custom-search-input" class="col-md-10">
-                <div class="input-group">
-                    <input type="text" class="form-control input-sm" placeholder="Tìm kiếm" />
+            <div id="search" class="col-md-6">
+                <div id="custom-search-input" class="col-md-10">
+                    <div class="input-group">
+                        <input type="text" class="form-control input-sm" placeholder="Tìm kiếm" />
                     <span class="input-group-btn">
                         <button class="btn btn-info btn-lg" type="button">
                             <i class="glyphicon glyphicon-search"></i>
                         </button>
                     </span>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-
 </div>
 <!--End header-->
 
@@ -53,12 +54,11 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="#">Link</a></li>
-                    <li><a href="#">Link</a></li>
-                    <li><a href="#">Link</a></li>
-                    <li><a href="#">Link</a></li>
+                    <li><a href="#">Trang chủ</a></li>
+                    <li><a href="#">Giới thiệu</a></li>
+                    <li><a href="#">Sản phẩm</a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tin tức <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">Action</a></li>
                             <li><a href="#">Another action</a></li>
@@ -67,6 +67,8 @@
                             <li><a href="#">One more separated link</a></li>
                         </ul>
                     </li>
+                    <li><a href="#">Phản hồi</a></li>
+                    <li><a href="#">Liên hệ</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </nav>
