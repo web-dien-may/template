@@ -229,3 +229,53 @@ div.container-fluid{
 table, th, td {
     border: 1px solid black;
 }
+
+.box-ads img{
+    width: 100%;
+}
+
+.sidebar ul{
+    margin: 0px;
+    padding: 0px;
+}
+.sidebar .panel-heading{
+    background-color: #B61302;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+}
+
+.sidebar .panel-heading{
+}
+.sidebar .panel-body{
+    padding: 0px;
+}
+.sidebar ul li span{
+    font-size: 10px;
+    padding-right: 5px;
+    top: -1px;
+}
+
+.sidebar ul li:hover span{
+    color: red;
+}
+
+.sidebar ul li:hover {
+    color: darkgreen;
+}
+
+.sidebar ul li{
+    list-style: none;
+    padding: 8px 0px 8px 10px;
+    border-bottom: 1px solid #cccccc;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e6e6e6+0,ffffff+100 */
+    background: rgb(230,230,230); /* Old browsers */
+    background: -moz-linear-gradient(left,  rgba(230,230,230,1) 0%, rgba(255,255,255,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left,  rgba(230,230,230,1) 0%,rgba(255,255,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right,  rgba(230,230,230,1) 0%,rgba(255,255,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6e6e6', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 */
+
+}
+
+
