@@ -12,29 +12,37 @@
 <div class="feedback_bg">
     <div id="main-content" class="container">
         <div class="row content_feedback">
-            <div class="col-md-4">
-                <div id="side_bar">
-                    <div id="feedback">
-                        <a><img src="img/sidebarimg.jpg"></a>
+            <div class="sidebar col-md-3">
+                <div class="panel">
+                    <div class="panel-heading">
+                        Download
+                    </div>
+                    <div class="panel-body">
                         <ul>
-                            <li>Product Catalogue</li>
+                            <li><span class="glyphicon glyphicon-chevron-right"></span>Product Catalogue</li>
+                            <li><span class="glyphicon glyphicon-chevron-right"></span>Product Catalogue</li>
+                            <li><span class="glyphicon glyphicon-chevron-right"></span>Product Catalogue</li>
+                            <li><span class="glyphicon glyphicon-chevron-right"></span>Product Catalogue</li>
+                            <li><span class="glyphicon glyphicon-chevron-right"></span>Product Catalogue</li>
                         </ul>
-                    </div>
-                    <div id="feedback_member">
-                        <img src="img/member_center.jpg" alt="Member Center Feedback">
-                    </div>
-                    <!--End Feedback Member-->
-                    <div>
-                        <img src="img/Contactus_feedback.jpg" alt="Contact Us FeedBack">
-
-                    </div>
-                    <!--End Contact us Member-->
 
 
+                    </div>
                 </div>
+
+                <div class="box-ads">
+                    <img src="img/member_center.jpg" alt="Member Center Feedback">
+                </div>
+                <!--End Feedback Member-->
+                <div class="box-ads">
+                    <img src="img/Contactus_feedback.jpg" alt="Contact Us FeedBack">
+                </div>
+                <!--End Contact us Member-->
+
+
             </div>
 
-            <div class="col-md-8 feedback-content">
+            <div class="col-md-9 feedback-content">
                 <div class="panel panel-default">
                     <div class="panel-heading">Panel Heading</div>
                     <div class="panel-body">
