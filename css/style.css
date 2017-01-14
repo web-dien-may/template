@@ -1,0 +1,76 @@
+#flags{
+    background-image: url(../img/bg-flags.jpg);
+    padding-bottom: 0px;
+    margin: 0px auto;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-repeat: repeat-x;
+    height: 29px;
+    padding-top: 0px;
+    text-align: center;
+}
+#flags li{
+    display: inline;
+}
+#logo, #search{
+    background-image: url(../img/bg-header.jpg);
+    padding-bottom: 0px;
+    margin: 0px auto;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-repeat: repeat-x;
+    height: 84px;
+    padding-top: 0px;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+
+@media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+
+
+.main-menu nav{
+    background: url(../img/bg-nav.png) repeat-x;
+}
+
+.main-menu nav li{
+    background: url("../img/bg-nav-02.png") repeat-x;
+}
+.main-menu ul.nav:before{
+    background: url("../img/bg-nav-01.png") no-repeat;
+    width: 55px;
+    content: " ";
+    height: 50px;
+    float: left;
+}
+
+.main-menu{
+    padding: 0px;
+}
+
+.main-menu ul.nav:after{
+    background: url("../img/bg-nav-03.png") no-repeat;
+    width: 100px;
+    content: " ";
+    height: 50px;
+    float: left;
+    clear: none;
+}
