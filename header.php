@@ -54,21 +54,22 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="#">Trang chủ</a></li>
-                    <li><a href="#">Giới thiệu</a></li>
-                    <li><a href="#">Sản phẩm</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tin tức <b class="caret"></b></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">About us <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Action</a></li>
-                            <li><a href="#">Another action</a></li>
-                            <li><a href="#">Something else here</a></li>
-                            <li><a href="#">Separated link</a></li>
-                            <li><a href="#">One more separated link</a></li>
+                            <li><a href="#">Speech</a></li>
+                            <li><a href="#">Company Profile</a></li>
+                            <li><a href="#">History</a></li>
+                            <li><a href="#">Honor</a></li>
+
                         </ul>
                     </li>
-                    <li><a href="#">Phản hồi</a></li>
-                    <li><a href="#">Liên hệ</a></li>
+                    <li><a href="#">Product</a></li>
+                    <li><a href="#">News</a></li>
+                    <li><a href="#">Download</a></li>
+                    <li><a href="#">Feedback</a></li>
+                    <li><a href="#">Contact us</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </nav>
