@@ -32,6 +32,12 @@
 .navbar .navbar-collapse {
     text-align: center;
 }
+#side_bar{
+float: left;
+}
+.clear {
+    clear: both;
+}
 
 
 @media (min-width: 768px) {
@@ -73,4 +79,7 @@
     height: 50px;
     float: left;
     clear: none;
+}
+#feedback_content{
+    float: left;
 }
