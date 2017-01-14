@@ -156,3 +156,18 @@ div.container-fluid{
 #myCarousel{
 
 }
+
+/*Feedback*/
+.feedback_btn{
+    text-align: center;
+}
+.feedback_bg{
+    background: url("../img/bg_feedback.jpg") repeat-x;
+}
+.content_feedback{
+    padding-top: 150px;
+}
+/*Download*/
+table, th, td {
+    border: 1px solid black;
+}

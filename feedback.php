@@ -9,8 +9,9 @@
 </head>
 <body>
 <?php include_once("header.php") ?>
+<div class="feedback_bg">
 <div id="main-content" class="container">
-    <div class="row">
+    <div class="row content_feedback">
         <div class="col-md-4">
             <div id="side_bar">
                 <div id="feedback">
@@ -36,7 +37,7 @@
             </div>
         </div>
 
-        <div class="col-md-8">
+        <div class="col-md-8 feedback-content">
             <div class="panel panel-default">
                 <div class="panel-heading">Panel Heading</div>
                 <div class="panel-body">
@@ -111,12 +112,11 @@
                                 <a href="#">Can't see clearly ? Change an image ?</a>
 
                             </div>
+                            <div class="form-group row feedback_btn">
+
+                                <input class="btn" type="submit">
+                            </div>
                         </form>
-
-
-
-
-
                     </div>
                 </div>
             </div>
@@ -126,6 +126,7 @@
         </div>
     </div>
 
+</div>
 </div>
 <!--End Content-->
 
