@@ -66,9 +66,9 @@
                         </ul>
                     </li>
                     <li><a href="#">Product</a></li>
-                    <li><a href="#">News</a></li>
-                    <li><a href="#">Download</a></li>
-                    <li><a href="#">Feedback</a></li>
+                    <li><a href="news.php">News</a></li>
+                    <li><a href="download.php">Download</a></li>
+                    <li><a href="feedback.php">Feedback</a></li>
                     <li><a href="#">Contact us</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
