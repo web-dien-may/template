@@ -277,5 +277,8 @@ table, th, td {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6e6e6', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 */
 
 }
-
+/*About us*/
+.panel-body span img{
+    float: left;
+}
 
