@@ -62,10 +62,15 @@
                             <li><a href="#">Company Profile</a></li>
                             <li><a href="#">History</a></li>
                             <li><a href="#">Honor</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="product.php" class="dropdown-toggle" data-toggle="dropdown">Product<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="newproduct.php">News Product</a></li>
 
                         </ul>
                     </li>
-                    <li><a href="#">Product</a></li>
                     <li><a href="news.php">News</a></li>
                     <li><a href="download.php">Download</a></li>
                     <li><a href="feedback.php">Feedback</a></li>

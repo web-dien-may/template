@@ -15,7 +15,7 @@
             <div class="sidebar col-md-3">
                 <div class="panel">
                     <div class="panel-heading">
-                        Download
+                        <a><span class="glyphicon glyphicon-play"> Download</a>
                     </div>
                     <div class="panel-body">
                         <ul>

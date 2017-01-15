@@ -48,112 +48,90 @@
 
                         </ul>
                     </div>
-<!--                    End body-->
+                    <!--                    End body-->
 
                 </div>
-<!--                End panel-->
+                <!--                End panel-->
 
             </div>
-<!--            End side bar-->
+            <!--            End side bar-->
             <div class="col-md-9">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        Product
+                         <a><span class="glyphicon glyphicon-play"> Product</a>
                     </div>
-<!--                    End heading-->
+                    <!--                    End heading-->
                     <div class="panel-body">
-                        <div class="col-md-3 box-product">
+                        <div class="col-md-4 box-product">
                             <a href="#">
-                                <img src="http://www.folangsiforklift.com/imageRepository/45b59aad-b159-4054-a899-2e1cd5bbff33.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+                                <img src="http://www.folangsiforklift.com/imageRepository/dca05f93-463f-431a-bbb8-9cf5d6ce2747.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
                             </a>
                             <a class="name-product" href="#">Sản phảm</a>
                             <p class="code-product">CH-003-9999</p>
                         </div>
-                        <div class="col-md-3 box-product">
+                        <div class="col-md-4 box-product">
                             <a href="#">
-                                <img src="http://www.folangsiforklift.com/imageRepository/45b59aad-b159-4054-a899-2e1cd5bbff33.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+                                <img src="http://www.folangsiforklift.com/imageRepository/dca05f93-463f-431a-bbb8-9cf5d6ce2747.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
                             </a>
                             <a class="name-product" href="#">Sản phảm</a>
                             <p class="code-product">CH-003-9999</p>
                         </div>
-                        <div class="col-md-3 box-product">
+                        <div class="col-md-4 box-product">
                             <a href="#">
-                                <img src="http://www.folangsiforklift.com/imageRepository/45b59aad-b159-4054-a899-2e1cd5bbff33.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+                                <img src="http://www.folangsiforklift.com/imageRepository/dca05f93-463f-431a-bbb8-9cf5d6ce2747.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
                             </a>
                             <a class="name-product" href="#">Sản phảm</a>
                             <p class="code-product">CH-003-9999</p>
                         </div>
-                        <div class="col-md-3 box-product">
+                        <div class="col-md-4 box-product">
                             <a href="#">
-                                <img src="http://www.folangsiforklift.com/imageRepository/45b59aad-b159-4054-a899-2e1cd5bbff33.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+                                <img src="http://www.folangsiforklift.com/imageRepository/dca05f93-463f-431a-bbb8-9cf5d6ce2747.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
                             </a>
                             <a class="name-product" href="#">Sản phảm</a>
                             <p class="code-product">CH-003-9999</p>
                         </div>
-                        <div class="col-md-3 box-product">
+                        <div class="col-md-4 box-product">
                             <a href="#">
-                                <img src="http://www.folangsiforklift.com/imageRepository/45b59aad-b159-4054-a899-2e1cd5bbff33.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+                                <img src="http://www.folangsiforklift.com/imageRepository/dca05f93-463f-431a-bbb8-9cf5d6ce2747.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
                             </a>
                             <a class="name-product" href="#">Sản phảm</a>
                             <p class="code-product">CH-003-9999</p>
                         </div>
-                        <div class="col-md-3 box-product">
+                        <div class="col-md-4 box-product">
                             <a href="#">
-                                <img src="http://www.folangsiforklift.com/imageRepository/45b59aad-b159-4054-a899-2e1cd5bbff33.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+                                <img src="http://www.folangsiforklift.com/imageRepository/dca05f93-463f-431a-bbb8-9cf5d6ce2747.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
                             </a>
                             <a class="name-product" href="#">Sản phảm</a>
                             <p class="code-product">CH-003-9999</p>
                         </div>
-                        <div class="col-md-3 box-product">
+                        <div class="col-md-4 box-product">
                             <a href="#">
-                                <img src="http://www.folangsiforklift.com/imageRepository/45b59aad-b159-4054-a899-2e1cd5bbff33.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+                                <img src="http://www.folangsiforklift.com/imageRepository/dca05f93-463f-431a-bbb8-9cf5d6ce2747.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
                             </a>
                             <a class="name-product" href="#">Sản phảm</a>
                             <p class="code-product">CH-003-9999</p>
                         </div>
-                        <div class="col-md-3 box-product">
+                        <div class="col-md-4 box-product">
                             <a href="#">
-                                <img src="http://www.folangsiforklift.com/imageRepository/45b59aad-b159-4054-a899-2e1cd5bbff33.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+                                <img src="http://www.folangsiforklift.com/imageRepository/dca05f93-463f-431a-bbb8-9cf5d6ce2747.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
                             </a>
                             <a class="name-product" href="#">Sản phảm</a>
                             <p class="code-product">CH-003-9999</p>
                         </div>
-                        <div class="col-md-3 box-product">
+                        <div class="col-md-4 box-product">
                             <a href="#">
-                                <img src="http://www.folangsiforklift.com/imageRepository/45b59aad-b159-4054-a899-2e1cd5bbff33.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+                                <img src="http://www.folangsiforklift.com/imageRepository/dca05f93-463f-431a-bbb8-9cf5d6ce2747.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
                             </a>
                             <a class="name-product" href="#">Sản phảm</a>
                             <p class="code-product">CH-003-9999</p>
                         </div>
-                        <div class="col-md-3 box-product">
-                            <a href="#">
-                                <img src="http://www.folangsiforklift.com/imageRepository/45b59aad-b159-4054-a899-2e1cd5bbff33.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
-                            </a>
-                            <a class="name-product" href="#">Sản phảm</a>
-                            <p class="code-product">CH-003-9999</p>
-                        </div>
-                        <div class="col-md-3 box-product">
-                            <a href="#">
-                                <img src="http://www.folangsiforklift.com/imageRepository/45b59aad-b159-4054-a899-2e1cd5bbff33.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
-                            </a>
-                            <a class="name-product" href="#">Sản phảm</a>
-                            <p class="code-product">CH-003-9999</p>
-                        </div>
-                        <div class="col-md-3 box-product">
-                            <a href="#">
-                                <img src="http://www.folangsiforklift.com/imageRepository/45b59aad-b159-4054-a899-2e1cd5bbff33.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
-                            </a>
-                            <a class="name-product" href="#">Sản phảm</a>
-                            <p class="code-product">CH-003-9999</p>
-                        </div>
-
                     </div>
                     <!--End body-->
                 </div>
-<!--                End panel body Product-->
+                <!--                End panel body Product-->
             </div>
         </div>
-<!--        End Content Product-->
+        <!--        End Content Product-->
 
     </div>
 </div>

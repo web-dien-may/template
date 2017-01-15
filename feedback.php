@@ -12,7 +12,7 @@
 <div class="feedback_bg">
 <div id="main-content" class="container">
     <div class="row content_feedback">
-        <div class="col-md-4">
+        <div class="col-md-3">
             <div id="side_bar">
                 <div id="feedback">
                     <img src="img/sidebarimg.jpg">
@@ -37,9 +37,11 @@
             </div>
         </div>
 
-        <div class="col-md-8 feedback-content">
+        <div class="col-md-9 feedback-content">
             <div class="panel panel-default">
-                <div class="panel-heading">Panel Heading</div>
+                <div class="panel-heading">
+                    <a><span class="glyphicon glyphicon-play"> Feedback</a>
+                </div>
                 <div class="panel-body">
 
                     <div id="feedback_content">
